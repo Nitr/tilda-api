@@ -1,3 +1,19 @@
+tilda-api
+=========
+
+  - [![Code Climate](https://codeclimate.com/github/Nitr/tilda-api/badges/gpa.svg)](https://codeclimate.com/github/Nitr/tilda-api)
+  - [![Test Coverage](https://codeclimate.com/github/Nitr/tilda-api/badges/coverage.svg)](https://codeclimate.com/github/Nitr/tilda-api/coverage)
+  - [![Dependency Status](https://gemnasium.com/Nitr/tilda-api.svg)](https://gemnasium.com/Nitr/tilda-api)
+  - [![Gem Version](https://badge.fury.io/rb/tilda-api.svg)](http://badge.fury.io/rb/tilda-api)
+  - [![Releases](http://img.shields.io/github/release/Nitr/tilda-api.svg?style=flat-square)](http://github.com/Nitr/tilda-api/releases)
+  - [![Tags](http://img.shields.io/github/tag/Nitr/tilda-api.svg?style=flat-square)](http://github.com/Nitr/tilda-api/tags)
+  - [![Downloads](http://img.shields.io/gem/dtv/tilda-api.svg?style=flat-square)](https://rubygems.org/gems/tilda-api)
+  - [![security](https://hakiri.io/github/Nitr/tilda-api/master.svg)](https://hakiri.io/github/Nitr/tilda-api/master)
+  - [![Build](http://img.shields.io/travis-ci/Nitr/tilda-api.svg?style=flat-square)](https://travis-ci.org/Nitr/tilda-api)
+  - [![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+  - [![Version](http://img.shields.io/gem/v/tilda-api.svg?style=flat-square)](https://rubygems.org/gems/tilda-api)
+
+
 # Tilda::Api
 
 TODO: Write a gem description
