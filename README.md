@@ -1,3 +1,12 @@
+[![Code
+Climate](https://codeclimate.com/github/Nitr/tilda-api/badges/gpa.svg)](https://codeclimate.com/github/Nitr/tilda-api)
+
+[![Test
+Coverage](https://codeclimate.com/github/Nitr/tilda-api/badges/coverage.svg)](https://codeclimate.com/github/Nitr/tilda-api/coverage)
+
+[![Dependency
+Status](https://gemnasium.com/Nitr/tilda-api.svg)](https://gemnasium.com/Nitr/tilda-api)
+
 # Tilda::Api
 
 TODO: Write a gem description
